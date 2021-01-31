@@ -1,0 +1,10 @@
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\bin\x64\Debug\AntiVSample.exe.config
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\bin\x64\Debug\AntiVSample.exe
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\bin\x64\Debug\AntiVSample.pdb
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\obj\x64\Debug\AntiVSample.csprojAssemblyReference.cache
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\obj\x64\Debug\AntiVSample.Form1.resources
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\obj\x64\Debug\AntiVSample.Properties.Resources.resources
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\obj\x64\Debug\AntiVSample.csproj.GenerateResource.cache
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\obj\x64\Debug\AntiVSample.csproj.CoreCompileInputs.cache
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\obj\x64\Debug\AntiVSample.exe
+C:\Users\ogun\source\repos\AntiVSample\AntiVSample\obj\x64\Debug\AntiVSample.pdb

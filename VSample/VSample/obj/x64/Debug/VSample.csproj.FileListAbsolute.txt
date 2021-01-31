@@ -1,0 +1,10 @@
+C:\Users\ogun\source\repos\VSample\VSample\bin\x64\Debug\VSample.exe.config
+C:\Users\ogun\source\repos\VSample\VSample\bin\x64\Debug\VSample.exe
+C:\Users\ogun\source\repos\VSample\VSample\bin\x64\Debug\VSample.pdb
+C:\Users\ogun\source\repos\VSample\VSample\obj\x64\Debug\VSample.csprojAssemblyReference.cache
+C:\Users\ogun\source\repos\VSample\VSample\obj\x64\Debug\VSample.Form1.resources
+C:\Users\ogun\source\repos\VSample\VSample\obj\x64\Debug\VSample.Properties.Resources.resources
+C:\Users\ogun\source\repos\VSample\VSample\obj\x64\Debug\VSample.csproj.GenerateResource.cache
+C:\Users\ogun\source\repos\VSample\VSample\obj\x64\Debug\VSample.csproj.CoreCompileInputs.cache
+C:\Users\ogun\source\repos\VSample\VSample\obj\x64\Debug\VSample.exe
+C:\Users\ogun\source\repos\VSample\VSample\obj\x64\Debug\VSample.pdb
